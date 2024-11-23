@@ -22,3 +22,4 @@ Welcome to my GitHub profile! Here you'll find the projects I'm working on, my c
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-maldinni-4a891a222/)
 
 ![Maldinni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maldinni&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maldinni&layout=pie)](https://github.com/Maldinni/github-readme-stats)
