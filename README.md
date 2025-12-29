@@ -1,21 +1,39 @@
-# 👋 Hi, I'm Maldinni!  
+# 👋 Hi, I'm Enzo Maldinni!  
 
-Welcome to my GitHub profile! Here you'll find the projects I'm working on, my continuous learning journey, and exciting collaborations. 🌟  
+I am an Undergraduate student in Computer Engineering at Universidade Estadual do Maranhão (UEMA), with a strong focus on Software Development, Data Science, and Machine Learning.
+I work on backend application development, data analysis and processing, automation, and AI-driven solutions, with experience in academic research, public institutions, and professional software projects.
 
-## About Me  
-- 🔭 Currently working on the **P2P Chat Flask App**, exploring real-time communication using Flask and hand-tracking technologies.  
-- 🌱 Always learning something new! Currently studying **French** and experimenting with **MediaPipe Hands** for real-time hand tracking.  
-- 🎯 My goal is to create accessible and innovative solutions, helping people with motor challenges and exploring new frontiers in human-computer interaction.  
+I am currently involved in projects related to data science, natural language processing, web systems, and LLMs, with a strong interest in scalable solutions and real-world impact. 
 
-## 💡 Interests  
-- 💻 Web development and accessibility.  
-- 🧠 Languages: Fluent in Portuguese, English, and Spanish, currently learning French. I dream of adding **German** or **Dutch** to the list!  
-- 🎵 Music: A fan of atmospheric and epic styles like *M83* and *Woodkid*. I also enjoy *Lord Huron* and the *Strange Trails* album.  
-- 🎥 Movies: Always inspired by compelling and reflective narratives.  
+Languages that I can speak:
 
-## ⚡ Fun Facts  
-- I love exploring technologies that combine creativity and innovation.  
-- I'm always looking for new ways to overcome challenges and learn from them.  
+* Portuguese — C2
+* English — C1
+* Spanish — B2
+* French — A2
+
+My stack:
+
+Programming Languages:
+Python, C, C++, Java, PHP, JavaScript
+
+Frameworks & Libraries:
+Django, Flask, React, Spring Boot, Laravel
+
+Databases:
+MySQL, PostgreSQL, SQL Server, Supabase
+
+Frontend:
+HTML, CSS, TailwindCSS
+
+Data & AI:
+Pandas, NumPy, Selenium, MediaPipe, PyTorch, LangChain, Ollama
+
+DevOps & Tools:
+Git, Docker, Kubernetes, AWS, Google Colab
+
+Other Tools:
+ElasticSearch, Kibana, WeKan, Photoshop
 
 ## 📫 How to Reach Me  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](enzo.maldinni@hotmail.com)
