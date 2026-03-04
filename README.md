@@ -21,7 +21,7 @@ Frameworks & Libraries:
 Django, Flask, React, Spring Boot, Laravel
 
 Databases:
-MySQL, PostgreSQL, SQL Server, Supabase
+MySQL, PostgreSQL, SQL Server, Supabase, DBeaver
 
 Frontend:
 HTML, CSS, TailwindCSS
