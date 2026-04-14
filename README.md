@@ -33,7 +33,7 @@ DevOps & Tools:
 Git, Docker, Kubernetes, AWS, Google Colab
 
 Other Tools:
-ElasticSearch, Kibana, WeKan, Photoshop
+ElasticSearch, Kibana, Grafana, WeKan, Photoshop
 
 ## 📫 How to Reach Me  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](enzo.maldinni@hotmail.com)
